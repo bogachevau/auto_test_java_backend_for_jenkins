@@ -1,0 +1,1 @@
+{"uuid":"2dc28e48-690f-471e-a8d1-deb0b011728e","historyId":"be4ab01b71e425fb01f77914b4739a18","labels":[{"name":"suite","value":"com.geekbrains.restApi.imgur.ImgurApiTests"},{"name":"package","value":"com.geekbrains.restApi.imgur.ImgurApiTests"}],"name":"Тест на получение информации о картинке","status":"passed","stage":"finished","start":1638120851808,"stop":1638120852641}

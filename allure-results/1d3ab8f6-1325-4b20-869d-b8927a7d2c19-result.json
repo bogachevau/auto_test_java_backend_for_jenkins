@@ -1,0 +1,1 @@
+{"uuid":"1d3ab8f6-1325-4b20-869d-b8927a7d2c19","historyId":"43c57bac75c20837250b0d911fb7dcb7","labels":[{"name":"suite","value":"com.geekbrains.restApi.imgur.ImgurApiTests"},{"name":"package","value":"com.geekbrains.restApi.imgur.ImgurApiTests"}],"name":"Тест на получение информации об альбоме","status":"passed","stage":"finished","start":1638120855560,"stop":1638120856308}

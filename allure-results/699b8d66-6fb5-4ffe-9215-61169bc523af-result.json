@@ -1,0 +1,1 @@
+{"uuid":"699b8d66-6fb5-4ffe-9215-61169bc523af","historyId":"8cff61db08024cf0bb747609e00fbe2f","labels":[{"name":"suite","value":"com.geekbrains.miniMarketApiTest.miniMarketApiTest"},{"name":"package","value":"com.geekbrains.miniMarketApiTest.miniMarketApiTest"}],"name":"Тест получения товара по id","status":"passed","stage":"finished","start":1638520845118,"stop":1638520845139}
