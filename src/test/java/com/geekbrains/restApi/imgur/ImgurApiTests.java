@@ -200,6 +200,7 @@ public class ImgurApiTests {
 
     @DisplayName("Тест создания нового альбома")
     @Test
+    @Disabled
     @Order(9)
     void testAlbumCreationPost() {
         String url = "/album";

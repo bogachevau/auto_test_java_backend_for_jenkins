@@ -32,6 +32,7 @@ public class miniMarketApiTest {
 
     @DisplayName("Тест получения списка товаров")
     @Test
+    @Disabled
     @Order(1)
     void testGetProducts() throws IOException {
         Type type = new TypeToken<ArrayList<Product>>() {
